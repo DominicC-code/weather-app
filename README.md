@@ -31,4 +31,4 @@ A desktop weather application built with PyQt6 that displays real-time weather i
 ## API Used:
 [OpenWeatherMap API](https://openweathermap.org/api)
 
-Created: February 2026
+Created: March 2026
