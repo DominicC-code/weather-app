@@ -1,4 +1,4 @@
-# PyQt6 Stopwatch
+# PyQt6 Weather App
 import sys
 from PyQt6.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout
 
@@ -80,4 +80,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     stopwatch = Stopwatch()
     stopwatch.show()
+
     sys.exit(app.exec())
